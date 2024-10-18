@@ -11,10 +11,10 @@
 * 這是一個ESP32程式用來掃描模組的i2c腳位，好確認你買的模組有沒有壞掉，並告訴你他的registor位置。(可連接1個以上的模組)。
 
 ## 接線
--GND:GND
--模組SCL:->SCL
--模組SDA:->SDA
--VCC:5V or 3V
+- GND:GND
+- 模組SCL:->SCL
+- 模組SDA:->SDA
+- VCC:5V or 3V
 
 ## 成果:
 ![Alt text](img.jpg)

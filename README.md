@@ -23,4 +23,4 @@ GND:GND
 VCC:5V or 3V
 
 ## 成果:
-![image](https://hackmd.io/_uploads/ryb7J8Jgkg.png)
+![Alt text](img.jpg)

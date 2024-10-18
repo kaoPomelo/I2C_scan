@@ -1,16 +1,11 @@
 ---
-title: I2C_Scan
-tags: [ESP32]
-
----
-
----
 title: 'I2C_Scan'
-disqus: hackmd
 ---
-## 清單
+## 目錄
+- [說明](#說明)
+- [接線](#接線)
+- [成果](#成果)
 
-[TOC]
 ## 說明
 * This is an ESP32 program used to scan the I2C pins of a module to ensure that the module you purchased is not faulty and to provide information about the locations of its registers. (It can connect to more than one module.)
  
